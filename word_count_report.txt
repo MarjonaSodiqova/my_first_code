@@ -1,0 +1,4 @@
+Total number of words: 2
+Top 5 most common words:
+cusersuserappdatalocalprogramspythonpython313pythonexe: 1
+dmyfirstcodelesson6wordcounterpy: 1

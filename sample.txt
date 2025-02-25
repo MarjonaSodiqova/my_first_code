@@ -1,0 +1,1 @@
+& C:/Users/user/AppData/Local/Programs/Python/Python313/python.exe d:/my_first_code/lesson-6/word_counter.py
