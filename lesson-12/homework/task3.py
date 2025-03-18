@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 
-driver = webdriver.Chrome()  
+driver = webdriver.Chrome()   
 driver.get("https://www.demoblaze.com/")
 
 
